@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Strawberry Pie Recipe</h1>
+
+    <img src="../images/fish.jpg" alt="A picture of cooked canned fish and rice"
+     height="310" width="310">
+    
+     <h2><strong> Description </strong></h2> 
+     <p>I love pilchards and feel like they're eaten more in SA than anywhere else in the world.
+        Here, I've taken a bit of a risk and made something with them that's similar to tahdig –</p> 
+        <p>it's like intshela or iskhokho (the crisped up bottom of the pot after preparing pap) 
+        and it's delicious, whether you get the shape perfect or not. </p>
+        
+     <h2><strong>Ingredients</strong></h2>
+
+    <ul>
+        <li> 1 quart fresh strawberries, hulled </li>
+        <li> 1 (9 inch) pie crust, baked </li>
+        <li> 1 cup white sugar </li>
+        <li> 3 tablespoons cornstarch  </li>
+        <li> ¾ cup water </li>
+        <li> ½ cup heavy whipping cream </li>
+    </ul>
+     
+    <h2><strong>Steps</strong></h2>
+    <ol>
+        <li> Arrange 1/2 of strawberries in baked pastry shell. Place remaining strawberries in a medium saucepan. </li>
+        <li> Add sugar to the strawberries in the saucepan; place over medium heat and bring to a boil, stirring frequently.  </li>
+        <li> Whisk cornstarch and water together in a small bowl. Gradually stir cornstarch mixture into boiling strawberry mixture  </li>
+        <li> Reduce heat and simmer mixture until thickened, about 10 minutes, stirring constantly. </li>
+        <li> Pour cooked strawberry mixture over berries in pastry shell. Refrigerate until chilled and set, at least 3 hours. </li>
+        <li> Before serving, whip cream in a medium bowl until soft peaks form.  </li>
+        <li> Serve each slice of pie with a dollop of whipped cream. Enjoy! </li>
+    </ol>
+
+    
+
+</body>
+
+</html>
